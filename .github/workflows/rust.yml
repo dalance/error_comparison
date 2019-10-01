@@ -1,9 +1,8 @@
 name: Rust
 
-on: push
-#on:
-#  schedule:
-#  - cron: 0 0 * * SUN
+on:
+  schedule:
+  - cron: 0 0 * * SUN
 
 jobs:
   build:
