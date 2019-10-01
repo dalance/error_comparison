@@ -1,0 +1,7 @@
+[workspace]
+members = [
+    "crates_io_search",
+    "err_derive",
+    "failure",
+    "snafu",
+]
