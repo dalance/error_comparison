@@ -11,8 +11,8 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+    - uses: actions/checkout@v1
     - name: Run
-      uses: actions/checkout@v1
       run: cargo run --bin crates_io_search
 
     - name: Commit
