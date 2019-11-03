@@ -110,3 +110,47 @@ updated = 2018-05-15
 dependents = 10
 created = 2019-10-09
 updated = 2019-10-19
+[failure.2019-11-03]
+dependents = 1921
+created = 2017-10-08
+updated = 2019-10-11
+[error-chain.2019-11-03]
+dependents = 668
+created = 2016-04-29
+updated = 2019-05-10
+[quick-error.2019-11-03]
+dependents = 243
+created = 2015-09-09
+updated = 2018-05-26
+[snafu.2019-11-03]
+dependents = 64
+created = 2019-01-28
+updated = 2019-08-26
+[err-derive.2019-11-03]
+dependents = 43
+created = 2018-12-24
+updated = 2019-10-10
+[derive-error.2019-11-03]
+dependents = 28
+created = 2017-01-15
+updated = 2017-10-04
+[thiserror.2019-11-03]
+dependents = 25
+created = 2019-10-09
+updated = 2019-10-27
+[anyhow.2019-11-03]
+dependents = 22
+created = 2019-10-05
+updated = 2019-11-02
+[simple-error.2019-11-03]
+dependents = 21
+created = 2016-03-24
+updated = 2019-07-03
+[custom_error.2019-11-03]
+dependents = 18
+created = 2018-11-01
+updated = 2019-07-30
+[common_failures.2019-11-03]
+dependents = 11
+created = 2017-12-24
+updated = 2018-05-15
