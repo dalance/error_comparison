@@ -618,3 +618,55 @@ updated = 2020-01-01
 dependents = 12
 created = 2017-12-24
 updated = 2018-05-15
+[failure.2020-01-19]
+dependents = 2003
+created = 2017-10-08
+updated = 2019-10-11
+[error-chain.2020-01-19]
+dependents = 667
+created = 2016-04-29
+updated = 2019-05-10
+[quick-error.2020-01-19]
+dependents = 245
+created = 2015-09-09
+updated = 2020-01-02
+[anyhow.2020-01-19]
+dependents = 194
+created = 2019-10-05
+updated = 2019-12-24
+[thiserror.2020-01-19]
+dependents = 186
+created = 2019-10-09
+updated = 2019-12-04
+[snafu.2020-01-19]
+dependents = 95
+created = 2019-01-28
+updated = 2020-01-17
+[err-derive.2020-01-19]
+dependents = 47
+created = 2018-12-24
+updated = 2020-01-16
+[derive-error.2020-01-19]
+dependents = 36
+created = 2017-01-15
+updated = 2017-10-04
+[custom_error.2020-01-19]
+dependents = 22
+created = 2018-11-01
+updated = 2019-07-30
+[simple-error.2020-01-19]
+dependents = 21
+created = 2016-03-24
+updated = 2019-07-03
+[nu-errors.2020-01-19]
+dependents = 17
+created = 2019-12-17
+updated = 2020-01-07
+[err-convert-macro.2020-01-19]
+dependents = 13
+created = 2020-01-01
+updated = 2020-01-01
+[common_failures.2020-01-19]
+dependents = 12
+created = 2017-12-24
+updated = 2018-05-15
