@@ -994,3 +994,59 @@ updated = 2018-05-15
 dependents = 10
 created = 2019-07-16
 updated = 2020-01-30
+[failure.2020-03-08]
+dependents = 2065
+created = 2017-10-08
+updated = 2020-03-05
+[error-chain.2020-03-08]
+dependents = 674
+created = 2016-04-29
+updated = 2020-02-20
+[thiserror.2020-03-08]
+dependents = 298
+created = 2019-10-09
+updated = 2020-02-14
+[anyhow.2020-03-08]
+dependents = 291
+created = 2019-10-05
+updated = 2019-12-24
+[quick-error.2020-03-08]
+dependents = 242
+created = 2015-09-09
+updated = 2020-01-02
+[snafu.2020-03-08]
+dependents = 107
+created = 2019-01-28
+updated = 2020-01-17
+[err-derive.2020-03-08]
+dependents = 56
+created = 2018-12-24
+updated = 2020-03-05
+[derive-error.2020-03-08]
+dependents = 40
+created = 2017-01-15
+updated = 2017-10-04
+[simple-error.2020-03-08]
+dependents = 25
+created = 2016-03-24
+updated = 2019-07-03
+[custom_error.2020-03-08]
+dependents = 25
+created = 2018-11-01
+updated = 2019-07-30
+[nu-errors.2020-03-08]
+dependents = 19
+created = 2019-12-17
+updated = 2020-02-18
+[err-convert-macro.2020-03-08]
+dependents = 13
+created = 2020-01-01
+updated = 2020-01-01
+[common_failures.2020-03-08]
+dependents = 12
+created = 2017-12-24
+updated = 2018-05-15
+[abscissa_core.2020-03-08]
+dependents = 10
+created = 2019-07-16
+updated = 2020-01-30
